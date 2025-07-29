@@ -18,7 +18,7 @@ O objetivo do projeto consiste utilizar as ferramentas descritas, para:
 - Monitoramento dos ativos, através de dashboards e alertas, com o Zabbix. 
 
 ## Arquitetura
-![[Pasted image 20250715133028.png]]
+![[../images/Pasted-image-20250715133028.png]]
 
 ## Funcionamento
 1) Administrador registra as informações do ativo no Netbox;
