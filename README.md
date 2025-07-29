@@ -9,7 +9,7 @@
 - [**NetBox - Configuração e População**](docs/netbox-setup.md) - Requisitos de infraestrutura e ordem de população de dados
 
 ### 📊 Monitoramento  
-*Em desenvolvimento*
+- [**Zabbix - Configuração e Integração**](docs/zabbix-setup.md) - Setup do Zabbix e critérios de maturidade do NetBox
 
 ### ⚙️ Configuração
 *Em desenvolvimento*
