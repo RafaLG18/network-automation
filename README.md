@@ -6,7 +6,7 @@
 - [**Visão Geral do Projeto**](docs/about-this-project/automacao.md) - Introdução, objetivos, arquitetura e funcionamento completo
 
 ### 🔧 Implementação
-*Em desenvolvimento*
+- [**NetBox - Configuração e População**](docs/netbox-setup.md) - Requisitos de infraestrutura e ordem de população de dados
 
 ### 📊 Monitoramento  
 *Em desenvolvimento*
