@@ -11,8 +11,8 @@
 ### 📊 Monitoramento  
 - [**Zabbix - Configuração e Integração**](docs/zabbix-setup.md) - Setup do Zabbix e critérios de maturidade do NetBox
 
-### ⚙️ Configuração
-*Em desenvolvimento*
+### ⚙️ Ambiente de Laboratório
+- [**GNS3 + RouterOS + Docker**](docs/ambiente-laboratorio.md) - Ambiente completo para testes e validação
 
 ### 🚀 Deploy
 *Em desenvolvimento*
